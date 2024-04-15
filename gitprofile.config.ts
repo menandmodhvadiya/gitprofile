@@ -36,11 +36,11 @@ const CONFIG = {
     imageURL: '',
   },
    social: {
-    linkedin: 'shubham11r',
-    twitter: '@shubham_raval_',
+    linkedin: 'MenandModhvadiya',
+    twitter: 'menandmodhvadiya',
     mastodon: '',
-    facebook: 'Shubham Raval',
-    instagram: 'shubhamraval2002',
+    facebook: 'modhvadiyamenand',
+    instagram: 'menand_modhvadiya',
     dribbble: '',
     behance: '',
     medium: '',
@@ -51,15 +51,15 @@ const CONFIG = {
     telegram: '',
     website: '',
     phone: '',
-    email: 'shubhamkraval@gmail.com',
+    email: 'modhvadiyamenand@gmail.com  ',
   },
     resume: {
     fileUrl:
       '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-'C','C++','Java','Python','PHP',
-    'Laravel',
+    'Java',
+    'Python',
     'JavaScript',
     'React.js',
     'Node.js',
@@ -89,10 +89,10 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Dharmsinh Desai University',
-      degree: 'B.Tech in Computer Engineering',
-      from: '2019',
-      to: '2024',
+      institution: 'Government Engineering College-Rajkot',
+      degree: 'B.E in Computer Engineering',
+      from: '2012',
+      to: '2016',
     }
   ],
   publications: [],
@@ -175,7 +175,7 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Copyright © 2023 <a 
-      class="text-primary" href="https://github.com/Shubham937Raval"
+      class="text-primary" href="https://github.com/menandmodhvadiya"
       target="_blank"
       rel="noreferrer"
     >Shubham Raval</a>`,
